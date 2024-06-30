@@ -1,4 +1,4 @@
-# Turumov Adilet ![photo](/download/DSC_0141.jpg "Фото")
+# Turumov Adilet ![photo](/rsschool-cv/DSC_0141.jpg "Фото")
 ## Frontend developer (in the future maybe)
 ### Contact information
 * **phone number**: +7 777 77 77
@@ -40,6 +40,3 @@ Bachelor of Engineering and Technology: Standartization, certitification and Met
 ### Language
 * Russian, Kazakh – Native 
 * English – Advanced
-
-
-
