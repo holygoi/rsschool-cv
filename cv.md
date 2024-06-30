@@ -1,13 +1,15 @@
-# Turumov Adilet ![photo](/rsschool-cv/DSC_0141.jpg "Фото" ) 
+# Turumov Adilet ![photo](/rsschool-cv/DSC_0141.jpg "Фото") 
 ## Frontend developer (in the future maybe)
 ### Contact information
 * **phone number**: +7 777 77 77
 * **email adress**: pikachutao@gmail.com
 * **discord**: holygoi
 ---
+
 ### Information about myself
 
 I am a standards specialist with over 5 years of experience who has decided to make a radical change in my career field
+
 Unfortunately, I have no knowledge whatsoever in programming, but I have a strong desire and sufficient time to learn
 
 ---
@@ -15,6 +17,7 @@ Unfortunately, I have no knowledge whatsoever in programming, but I have a stron
 None
 + none1
 + none2
+
 ---
 ### Code example
 ```
@@ -33,6 +36,7 @@ describe("Multiply", () => {
 });
 ```
 ---
+
 ### Education
 Bachelor of Engineering and Technology: Standartization, certitification and Metrology LN. Gumilyov Eusarian National University - Astana, Kazakhstan
 
