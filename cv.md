@@ -1,4 +1,4 @@
-# Turumov Adilet ![photo](/rsschool-cv/DSC_0141.jpg "Фото")
+# Turumov Adilet ![photo](/rsschool-cv/DSC_0141.jpg "Фото" ) 
 ## Frontend developer (in the future maybe)
 ### Contact information
 * **phone number**: +7 777 77 77
